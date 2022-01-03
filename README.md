@@ -1,9 +1,1 @@
-Work in progress 
---- 
-
-```ruby
-echo helloworld
-```
-
----
-fmbah works 
+# my-mac-bashenv
